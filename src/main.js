@@ -7,7 +7,11 @@ import VueAxios from 'vue-axios'
 
 import App from './App.vue' // 來自src資料夾
 import router from './router'
+
 import './assets/all.scss'
+import 'bootstrap'
+// import 'bootstrap/dist/js/bootstrap'
+
 
 const app = createApp(App)
 

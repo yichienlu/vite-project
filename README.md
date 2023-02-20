@@ -36,4 +36,4 @@ npm run lint
 
 ## 部署至 Github
 在 vite.config.js 修改儲存庫名稱
-用 Git Bash 執行 sh deploy.sh
+用 Git Bash 執行 sh deploy.sh (儲存庫名稱要修改)
